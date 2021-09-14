@@ -733,6 +733,7 @@ input {
 
 .footer__link {
   color: var(--text-color);
+  cursor: pointer;
 }
 
 .footer__link:hover {
@@ -759,6 +760,7 @@ input {
 
 .footer__terms-link:hover {
   color: var(--text-color);
+  cursor: pointer;
 }
 
 /*========== SCROLL UP ==========*/
